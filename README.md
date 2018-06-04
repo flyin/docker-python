@@ -1,2 +1,2 @@
-See https://hub.docker.com/r/flyin/docker-python/
+See https://hub.docker.com/r/flyin/python/
 
