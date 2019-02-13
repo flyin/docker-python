@@ -1,3 +1,3 @@
-FROM python:3.6
+FROM python:3.7-alpine
 
-RUN apt-get update -qq && apt-get install -y --force-yes gettext-base netcat
+RUN apk --no-cache add ca-certificates netcat-openbsd
